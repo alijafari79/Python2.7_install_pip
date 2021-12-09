@@ -5,7 +5,9 @@ Download installPip.py to your system and Run the code using this Command in com
 
 (In the following script, "python" should refer to python2.7 executable on your system).
 
-```python installPip.py```
+```
+python installPip.py
+```
 
 Done ! 
 Now pip installed and you can proceed to installing packages using pip.
